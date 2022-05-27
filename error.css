@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(245, 195, 58);
+    color: #fff;
+    font-family: "Erica One", cursive, "Josefin Sans", sans-serif;
+  }
+  a {
+      text-decoration: none;
+      color: #fff; 
+      font-size: 1.6vw;
+      transition: all 0.3s;
+    }
+    a:hover {
+        color: #000;
+        font-size: 1.7vw;
+    }
+   header {
+      margin-top: 40vh;
+    }
+    header h1 {
+        font-size: 3vw;
+    }

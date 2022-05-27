@@ -1,0 +1,61 @@
+* {
+  font-family: "Erica One", cursive, "Josefin Sans", sans-serif;
+}
+html {
+  background-color: rgb(245, 195, 58);
+  color: white;
+}
+.H {
+  font-size: 50%;
+  margin: 2%;
+}
+.H a {
+  color: rgb(255, 255, 255);
+  transition: all 0.5s;
+}
+.H a:hover {
+  color: #000;
+}
+.llevar {
+  padding: 10%;
+  background-color: rgb(255, 70, 70);
+  box-shadow: 2px 4px 15px 0px #000;
+  margin-top: 8%;
+  margin-left: 20%;
+  border-radius: 10%;
+  display: inline-block;
+}
+.aqui {
+  padding: 10%;
+  background-color: rgb(255, 70, 70);
+  box-shadow: 2px 4px 15px 0px #000;
+  border-radius: 10%;
+  margin-top: 8%;
+  margin-left: 10vw;
+  display: inline-block;
+}
+.fa-solid {
+  color: white;
+  font-size: 550%;
+  transition: all 0.5s;
+}
+.fa-solid:hover {
+  color: #000;
+}
+.llm {
+  font-size: 10%;
+}
+.CLL {
+  height: 8vh;
+  width: 5.5vw;
+  background-color: rgb(255, 70, 70);
+  margin-left: auto;
+  margin-right: auto;
+}
+.CA {
+  height: 8vh;
+  width: 5.5vw;
+  background-color: rgb(255, 70, 70);
+  margin-left: auto;
+  margin-right: auto;
+}

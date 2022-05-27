@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="shortcut icon" href="imagenes/perrro dogits.png" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOGOS</title>
+</head>
+<body>
+    <script len="text/javascript">
+        var contra = 'admin';
+        contra = prompt('Contraseña') 
+    
+        if (contra == 'Dogits135!')
+        {
+            alert('Correcta')
+            document.write('Redireccionando...')
+            var pagina = 'inicio.html'
+            function Redireccionar()
+            {
+                location.href = pagina 
+            }
+            setTimeout ('Redireccionar()',0);
+        }
+        else 
+        {
+            alert('Incorrecta')
+            document.write('Redireccionando...')
+            var pagina = 'error.html'
+            function Redireccionar()
+            {
+                location.href = pagina 
+            }
+            setTimeout ('Redireccionar()',0);
+        }
+    </script>
+</body>
+</html>

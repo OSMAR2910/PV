@@ -1,0 +1,57 @@
+* {
+  font-family: "Erica One", cursive, "Josefin Sans", sans-serif;
+}
+html {
+  background-color: rgb(245, 195, 58);
+  color: white;
+  font-family: "Monoton", cursive;
+}
+.user {
+  color: rgb(255, 255, 255);
+  line-height: 1.4;
+  font-size: 1.3vw;
+}
+.NDE {
+  color: rgb(255, 255, 255);
+  line-height: 1.4;
+  font-size: 1.3vw;
+}
+.IN {
+  font-size: 1.3vw;
+}
+.IP {
+  font-size: 1.3vw;
+}
+.IR {
+  color: rgb(255, 255, 255);
+  background-color: rgb(184, 0, 0);
+  margin-top: 2%;
+  width: 10vw;
+  height: 4.5vh;
+  border-radius: 5px;
+  font-size: 1vw;
+  padding: 2%;
+  transition: all 0.5s;
+}
+.IR:hover {
+  background-color: rgb(255, 0, 0);
+}
+.CR {
+  background-color: rgb(255, 70, 70);
+  box-shadow: 2px 4px 15px 0px #000;
+  width: 22vw;
+  height: 32vh;
+  margin-left: 65vw;
+  margin-top: 30vh;
+  border-radius: 20px;
+  padding: 2%;
+}
+.fa-users {
+  color: rgb(255, 187, 0);
+  font-size: 320%;
+}
+img {
+  margin-left: 7vw;
+  margin-top: -16vh;
+  position: fixed;
+}

@@ -1,0 +1,137 @@
+* {
+  font-family: "Erica One", cursive, "Josefin Sans", sans-serif;
+}
+html {
+  background-color: rgb(245, 195, 58);
+  color: white;
+}
+.num,
+.nom {
+  margin-left: 10%;
+  font-size: 1.2vw;
+}
+.caja-num,
+.caja-nom {
+  margin-left: 2%;
+  font-size: 1.1vw;
+}
+.DC {
+  font-size: 1.4vw;
+  padding: 3%;
+}
+.CNO {
+  font-size: 50%;
+}
+.CNU {
+  font-size: 50%;
+}
+.CO {
+  padding: 1%;
+  border-radius: 5%;
+  background-color: rgb(145, 0, 0);
+  width: 100%;
+  height: 100%;
+}
+.CDDC {
+  position: fixed;
+  background-color: rgb(255, 70, 70);
+  box-shadow: 2px 4px 15px 0px #000;
+  width: 30%;
+  height: 22%;
+  color: white;
+  border-radius: 3%;
+  padding: 1%;
+  margin-left: 1%;
+  margin-top: 1%;
+  z-index: 100;
+}
+.A {
+  background-color: rgb(255, 70, 70);
+  box-shadow: 2px 4px 15px 0px #000;
+  width: 30%;
+  height: 71%;
+  color: white;
+  position: fixed;
+  border-radius: 3%;
+  padding: 1%;
+  margin-left: 1%;
+  margin-top: 14.5%;
+  z-index: 1;
+}
+.CTL {
+  background-color: rgb(145, 0, 0);
+  border-radius: 4%;
+  padding: 4%;
+  margin-top: 3%;
+}
+.LH {
+  background-color: rgb(145, 0, 0);
+  width: 100%;
+  height: 85%;
+  border-radius: 3%;
+}
+.TL {
+  font-size: 1.6vw;
+}
+.PR {
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 70, 70);
+  padding: 2%;
+  margin-top: 144%;
+  margin-left: 77%;
+  height: 10%;
+  border-radius: 5px;
+  font-size: 135%;
+}
+.CTM {
+  width: 67%;
+  height: 250vh;
+  background-color: rgba(255, 0, 0, 0.363);
+  margin-left: 32%;
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+  border-radius: 10px;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 0.1%;
+}
+.HD,
+.RS,
+.PS,
+.EX {
+  margin-top: 3%;
+  background-color: rgb(255, 70, 70);
+  width: 98%;
+  height: 8.2%;
+  border-radius: 2%;
+  transition: all 1s;
+}
+.H,
+.R,
+.P,
+.E {
+  padding: 2%;
+  background-color: rgba(0, 0, 0, 0.253);
+  color: white;
+  font-size: 4vw;
+}
+.HD:hover {
+  background-color: rgb(255, 70, 70);
+  width: 98%;
+  height: 38%;
+}
+.RS:hover {
+  background-color: rgb(255, 70, 70);
+  width: 98%;
+  height: 38%;
+}
+.PS:hover {
+  background-color: rgb(255, 70, 70);
+  width: 98%;
+  height: 38%;
+}
+.EX:hover {
+  background-color: rgb(255, 70, 70);
+  width: 98%;
+  height: 38%;
+}

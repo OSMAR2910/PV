@@ -1,0 +1,39 @@
+* {
+  font-family: "Erica One", cursive, "Josefin Sans", sans-serif;
+}
+html {
+  background-color: rgb(245, 195, 58);
+  color: white;
+}
+header img {
+    margin-left: 1%;
+    margin-top: 15vh;
+}
+h1{
+    margin-top: -6vh;
+    font-size: 4vw;
+}
+.ODE {
+  color: rgb(255, 255, 255);
+  font-family: "Monoton", cursive;
+  font-size: 210%;
+}
+.fa-solid {
+  padding: 5%;
+  color: rgb(255, 255, 255);
+  font-size: 400%;
+  transition: all 0.5s;
+}
+.fa-solid:hover {
+  color: #000;
+  font-size: 410%;
+}
+.CM {
+  background-color: rgb(255, 70, 70);
+  box-shadow: 2px 4px 15px 0px #000;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  border-radius: 20px;
+}

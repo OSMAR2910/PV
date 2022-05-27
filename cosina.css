@@ -1,0 +1,48 @@
+* {
+  font-family: "Erica One", cursive, "Josefin Sans", sans-serif;
+}
+html {
+  background-color: rgb(245, 195, 58);
+  color: white;
+}
+.pedidos {
+  color: rgb(255, 255, 255);
+  font-family: "Monoton", cursive;
+  font-size: 400%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.v {
+  font-family: "Monoton", cursive;
+  font-size: 110%;
+  color: white;
+}
+.v a {
+  text-decoration: none;
+  color: white;
+  transition: all 0.5s;
+}
+.v a:hover {
+  color: rgb(0, 0, 0);
+}
+.H {
+  font-size: 250%;
+  margin: 2%;
+}
+.H a {
+  color: rgb(255, 255, 255);
+  transition: all 0.5s;
+}
+.H a:hover {
+  color: #000;
+}
+.OC {
+  background-color: rgba(255, 0, 0, 0.24);
+  padding: 2%;
+  width: 98vw;
+  height: 77vh;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  border-radius: 10px;
+}
